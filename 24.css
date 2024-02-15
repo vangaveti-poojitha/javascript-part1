@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color:antiquewhite;
+}
+
+#h1{
+    border-style: solid;
+    border-color:aquamarine;
+    border-width: 3px;
+    padding:10px;
+    text-align: center;
+
+}
+
+#d1{
+    border-style: solid;
+    border-color:aquamarine;
+    border-width: 3px;
+    padding:60px;
+    text-align: center;
+    margin:30px;
+    border-radius: 7px;
+
+
+}
